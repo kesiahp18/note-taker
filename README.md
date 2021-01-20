@@ -9,7 +9,7 @@ Using the starter code provided, this app allows the user to write and save note
 * [Questions](https://github.com/kesiahp18/note-taker#questions)
     
 ## Installation 
-Visit the [deployed website]()].
+Visit the [deployed website](https://arcane-ridge-88016.herokuapp.com/)].
 
 ## Usage
 Enter a title and content for your note, and then click the save button in the right corner to have your note saved. To view your notes, find and click the note you wish to view from the list on the left side. You can create a new note by clicking the pencil in the top right corner.
